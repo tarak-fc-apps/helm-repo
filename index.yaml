@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  java-web-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-10T02:30:40.750317142Z"
+    description: A Helm chart for Kubernetes
+    digest: 4a18a43cea269bc89a3ddec32e0ea4a16c461ad1af7afe0c800602c9df7a225b
+    name: java-web-app
+    type: application
+    urls:
+    - https://tarak-fc-apps.github.io/helm-repo/java-web-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-10T02:30:40.7485565Z"
